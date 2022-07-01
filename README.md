@@ -11,50 +11,36 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatindevnani&label=Profile%20views&color=0e75b6&style=flat" alt="jaysanodiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitmax2022&label=Profile%20views&color=0e75b6&style=flat" alt="harshitmax2022" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitmax2022" alt="harshitmax2022" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MYSQL   Spring Framework, Design pattern**
+- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
 
-- 📝 I regularly write articles on https://medium.com/@harshittripathimax
+- 👨‍💻 All of my projects are available at [https://precious-sorbet-1926cd.netlify.app/](https://precious-sorbet-1926cd.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@harshittripathimax](https://medium.com/@harshittripathimax)
+
 - 📫 How to reach me **harshittripathimax@gmail.com**
-<!-- 
-- 📄 **Resume** [Click Me](https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing) -->
 
-- ⚡ Favorite Activity except coding? **Meeting With New People**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing](https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left" >Connect with me:</h3>
-<br/>
-<p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/jatin-devnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
-<a href="https://www.facebook.com/jatii.dewnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jay sanodiya" height="40" width="50" /></a>
-<a href="https://www.instagram.com/uptown_funnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
-<a href="https://medium.com/@jatindevnani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_sanodiya" height="40" width="50" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshit-tripathi-ab9191216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-tripathi-ab9191216" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@harshittripathimax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@harshittripathimax" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshittripathi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshittripathi9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshit2414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit2414" height="30" width="40" /></a>
 </p>
-<br/>
+
 <h3 align="left">Languages and Tools:</h3>
-<br/>
-<p align="left"; style="display: flex;justify-content: space-evenly;width: 70%;"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="50" height="50"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"width="50" height="50"/>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
- </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitmax2022&show_icons=true&locale=en&layout=compact" alt="harshitmax2022" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitmax2022&show_icons=true&locale=en" alt="harshitmax2022" /></p>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatindevnani&show_icons=true&locale=en&layout=compact" alt="jaysanodiya" /></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmax2022&" alt="harshitmax2022" /></p>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatindevnani&show_icons=true&locale=en" alt="jaysanodiya" /></div>
-
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> //-->
-
-<!-- ON branch love -->
-
-<!-- On branch main
-<Added undo and delete functionality>
- -->

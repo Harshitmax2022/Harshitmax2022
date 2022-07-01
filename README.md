@@ -17,8 +17,7 @@
 
 - 🌱 I’m currently learning **MYSQL   Spring Framework, Design pattern**
 
-- 📝 I regularly write articles on [(https://medium.com/@jatindevnani123)](https://medium.com/@harshittripathimax)
-
+- 📝 I regularly write articles on https://medium.com/@harshittripathimax
 - 📫 How to reach me **harshittripathimax@gmail.com**
 <!-- 
 - 📄 **Resume** [Click Me](https://drive.google.com/file/d/1zhiLPHcVnfX9jOY1itGfg7kTix65J0Gs/view?usp=sharing) -->

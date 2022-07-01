@@ -2,7 +2,7 @@
 <div style="display: flex; justify-content: space-around;" >
 <div>
  Hi there 👋
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Harshit+Tripathi!;Learning+Web+Development...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Harshit+Tripathi!;Learning+Java+Backend+Development...;" style="max-width: 100%;">
 <br/>
 <h3 align="left">A Java Backend developer</h3>
 </div>

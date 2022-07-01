@@ -20,7 +20,7 @@
 - 📝 I regularly write articles on https://medium.com/@harshittripathimax
 - 📫 How to reach me **harshittripathimax@gmail.com**
 <!-- 
-- 📄 **Resume** [Click Me](https://drive.google.com/file/d/1zhiLPHcVnfX9jOY1itGfg7kTix65J0Gs/view?usp=sharing) -->
+- 📄 **Resume** [Click Me](https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing) -->
 
 - ⚡ Favorite Activity except coding? **Meeting With New People**
 

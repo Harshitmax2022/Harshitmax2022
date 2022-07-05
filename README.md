@@ -7,7 +7,7 @@
 <h3 align="left">A Java Backend developer</h3>
 </div>
     <div>
-    <img align="right" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>
+    <img align="center" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>
 </div>
 
 

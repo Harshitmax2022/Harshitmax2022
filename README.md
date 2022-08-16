@@ -7,14 +7,11 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Harshit+Tripathi!;Learning+Java+Backend+Development...;" style="max-width: 100%;">
 <br/>
 <h3 align="left">A Java Backend developer</h3>
+    Backend Developer specialized in Core Java concepts with a  good grasp on Java concepts. Strong in design and integration with intuitive problem-solving skills. Ability to translate business requirements into technical solutions.
 </div>
     <div>
     <img align="center" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>
 </div>
-
-Backend Developer specialized in Core Java concepts with a  good grasp on Java concepts. Strong in design and integration with intuitive problem-solving skills. Ability to translate business requirements into technical solutions.
-
-
 </div>
 
 

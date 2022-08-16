@@ -12,6 +12,8 @@
     <img align="center" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>
 </div>
 
+Backend Developer specialized in Core Java concepts with a  good grasp on Java concepts. Strong in design and integration with intuitive problem-solving skills. Ability to translate business requirements into technical solutions.
+
 
 </div>
 

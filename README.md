@@ -6,7 +6,7 @@
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Harshit+Tripathi!;Learning+Java+Backend+Development...;" style="max-width: 100%;">
 <br/>
-<h3 align="left">A Java Backend developer</h3>
+<!-- <h3 align="left">A Java Backend developer</h3> -->
  A highly passionate Backend developer who loves, creating APIs, and working with databases. Also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
 </div>
     <div>

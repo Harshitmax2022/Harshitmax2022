@@ -41,6 +41,8 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 <a href="https://www.leetcode.com/harshit2414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit2414" height="30" width="40" /></a>
 </p>
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">

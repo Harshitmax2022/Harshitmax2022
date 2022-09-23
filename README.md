@@ -23,7 +23,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at and even you can connect me from here also [https://harshit24-portfolio.netlify.app/](https://harshit24-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at and even you can connect me from here also [https://harshitportfolio242.netlify.app/](https://harshitportfolio242.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@harshittripathimax](https://medium.com/@harshittripathimax)
 

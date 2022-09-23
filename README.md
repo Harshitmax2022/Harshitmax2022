@@ -32,7 +32,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
 
 - ⚡ Fun fact **I usually forget people name**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshit-tripathi-ab9191216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-tripathi-ab9191216" height="30" width="40" /></a>

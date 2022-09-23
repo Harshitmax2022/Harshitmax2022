@@ -29,7 +29,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 📫 How to reach me **harshittripathimax@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing](https://drive.google.com/file/d/1OLbyljgs_oSsUI2UwYJb64HNUzpX56ME/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
 
 - ⚡ Fun fact **I usually forget people name**
 

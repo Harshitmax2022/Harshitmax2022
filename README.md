@@ -43,7 +43,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
 
-- ⚡ Fun fact **You can't touch your nose with your tongue**
+- ⚡ Fun fact **Some time i forget people name 😂**
 
 ---
 

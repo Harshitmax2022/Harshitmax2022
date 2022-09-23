@@ -31,17 +31,30 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
 
-- ⚡ Fun fact **I usually forget people name**
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit-tripathi-ab9191216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-tripathi-ab9191216" height="30" width="40" /></a>
-<a href="https://medium.com/@harshittripathimax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harshittripathimax" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fw17_0024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fw17_0024" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshit2414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit2414" height="30" width="40" /></a>
-</p>
+
+<div>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>
+
+### :woman_technologist: About Me :
+ 
+- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate,aws**
+
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://harshitportfolio242.netlify.app/)
+
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@harshittripathimax)
+
+- 📫 How to reach me: **harshittripathimax@gmail.com**
+
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
+
+- ⚡ Fun fact **You can't touch your nose with your tongue**
 
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 

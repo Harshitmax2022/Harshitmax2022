@@ -21,15 +21,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at and even you can connect me from here also [https://harshitportfolio242.netlify.app/](https://harshitportfolio242.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@harshittripathimax](https://medium.com/@harshittripathimax)
-
-- 📫 How to reach me **harshittripathimax@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing](https://drive.google.com/drive/folders/1OaZpg2xThYF3TxlDE7PyqgNwMDcQRW-N?usp=sharing)
 
 ---
 

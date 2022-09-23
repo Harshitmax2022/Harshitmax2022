@@ -7,7 +7,7 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Harshit+Tripathi!;Learning+Java+Backend+Development...;" style="max-width: 100%;">
 <br/>
 <h3 align="left">A Java Backend developer</h3>
-I am a highly passionate Backend developer who loves, creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
+ A highly passionate Backend developer who loves, creating APIs, and working with databases. Also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
 </div>
     <div>
     <img align="center" alt="Coding" heigh="50" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%>

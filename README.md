@@ -63,8 +63,13 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
 ---
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitmax2022&show_icons=true&locale=en&layout=compact" alt="harshitmax2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshitmax2022&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Harshitmax2022" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshitmax2022&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Harshitmax2022"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitmax2022&show_icons=true&locale=en" alt="harshitmax2022" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harshitmax2022&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmax2022&" alt="harshitmax2022" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Harshitmax2022&theme=xcode">
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
